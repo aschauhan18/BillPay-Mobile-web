@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hi-Tech", "Hi-Tech\Hi-Tech.csproj", "{9516A2CF-6A7E-4BC7-8909-4E0F0D3B2F7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Objects", "..\Hi-Tech-Objects\Objects\Objects.csproj", "{8D5DEE22-3509-4E0F-BD15-01A04E51FCDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbServices", "..\Hi-Tech-DbServices\DbServices\DbServices.csproj", "{0DA1E850-9467-4FB8-9E06-193C17A462E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9516A2CF-6A7E-4BC7-8909-4E0F0D3B2F7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9516A2CF-6A7E-4BC7-8909-4E0F0D3B2F7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9516A2CF-6A7E-4BC7-8909-4E0F0D3B2F7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9516A2CF-6A7E-4BC7-8909-4E0F0D3B2F7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D5DEE22-3509-4E0F-BD15-01A04E51FCDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D5DEE22-3509-4E0F-BD15-01A04E51FCDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D5DEE22-3509-4E0F-BD15-01A04E51FCDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D5DEE22-3509-4E0F-BD15-01A04E51FCDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DA1E850-9467-4FB8-9E06-193C17A462E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DA1E850-9467-4FB8-9E06-193C17A462E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DA1E850-9467-4FB8-9E06-193C17A462E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DA1E850-9467-4FB8-9E06-193C17A462E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

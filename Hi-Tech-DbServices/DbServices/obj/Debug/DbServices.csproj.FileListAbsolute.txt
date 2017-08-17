@@ -1,0 +1,4 @@
+D:\donetcodes\Hi-tech\Hi-Tech-DbServices\DbServices\bin\Debug\DbServices.dll
+D:\donetcodes\Hi-tech\Hi-Tech-DbServices\DbServices\bin\Debug\DbServices.pdb
+D:\donetcodes\Hi-tech\Hi-Tech-DbServices\DbServices\obj\Debug\DbServices.dll
+D:\donetcodes\Hi-tech\Hi-Tech-DbServices\DbServices\obj\Debug\DbServices.pdb

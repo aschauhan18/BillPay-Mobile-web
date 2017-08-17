@@ -1,0 +1,5 @@
+D:\donetcodes\Hi-tech\Hi-Tech-Objects\Objects\bin\Debug\Objects.dll
+D:\donetcodes\Hi-tech\Hi-Tech-Objects\Objects\bin\Debug\Objects.pdb
+D:\donetcodes\Hi-tech\Hi-Tech-Objects\Objects\obj\Debug\Objects.csprojResolveAssemblyReference.cache
+D:\donetcodes\Hi-tech\Hi-Tech-Objects\Objects\obj\Debug\Objects.dll
+D:\donetcodes\Hi-tech\Hi-Tech-Objects\Objects\obj\Debug\Objects.pdb
